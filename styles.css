@@ -1,0 +1,23 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.guitarra-stratocaster{
+    width: 100px;
+    
+}
+
+.container{
+    height: 420px;
+}
+
+.titulo{
+    font-weight: bold;
+    
+}
+
+.guitarra-les-paul{
+    width: 200px;
+}
